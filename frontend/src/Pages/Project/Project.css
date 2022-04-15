@@ -1,0 +1,13 @@
+.visual{
+    background-color: #E5E5E5;
+    width: 100%;
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'IBM Plex Sans', sans-serif;
+    display: inline-block;
+}
+
+.title{
+    margin-left: 7rem;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+}  
